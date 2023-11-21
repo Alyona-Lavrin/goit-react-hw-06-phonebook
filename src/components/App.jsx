@@ -14,7 +14,7 @@ export const App = () => {
         marginRight: 'auto',
         width: '500px',
         marginTop: '50px',
-        backgroundColor: '#b4d6f5',
+        backgroundColor: '#ecd2ec',
         borderRadius: '8px',
         padding: '40px 20px',
         outline: 'auto #291578',
